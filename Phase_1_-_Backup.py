@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-import streamlit_extras as se
+#import streamlit_extras as se
 #from streamlit_extras import add_logo
 
 st.image("gallery/logo.png")
