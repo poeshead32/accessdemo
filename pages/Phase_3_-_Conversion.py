@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 import numpy as np
 
-st.image("gallery/logo.png")
+st.image("gallery/Logo.png")
 # Page title
 st.title("Phase 3: Diesel to Gas Conversion")
 
