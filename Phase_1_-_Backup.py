@@ -5,7 +5,7 @@ import altair as alt
 #import streamlit_extras as se
 #from streamlit_extras import add_logo
 
-st.image("gallery/logo.png")
+st.image("gallery/Logo.png")
 #add_logo("gallery/logo.png")
 
 # Title of the app
