@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
-st.image("gallery/logo.png")
+st.image("gallery/Logo.png")
 st.title("Phase 2: PV Installation")
 # Assume the coordinates for Hutton Court
 HUTTON_COURT_COORDS = [28.0331, -26.1286]  # Replace with actual coordinates
